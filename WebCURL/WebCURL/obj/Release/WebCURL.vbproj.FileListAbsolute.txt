@@ -1,0 +1,11 @@
+C:\Users\jschw\Documents\Visual Studio 2015\Projects\WebCURL\WebCURL\bin\Release\WebCURL.exe.config
+C:\Users\jschw\Documents\Visual Studio 2015\Projects\WebCURL\WebCURL\bin\Release\WebCURL.exe
+C:\Users\jschw\Documents\Visual Studio 2015\Projects\WebCURL\WebCURL\bin\Release\WebCURL.pdb
+C:\Users\jschw\Documents\Visual Studio 2015\Projects\WebCURL\WebCURL\bin\Release\WebCURL.xml
+C:\Users\jschw\Documents\Visual Studio 2015\Projects\WebCURL\WebCURL\obj\Release\WebCURL.vbprojResolveAssemblyReference.cache
+C:\Users\jschw\Documents\Visual Studio 2015\Projects\WebCURL\WebCURL\obj\Release\WebCURL.WebCURL.resources
+C:\Users\jschw\Documents\Visual Studio 2015\Projects\WebCURL\WebCURL\obj\Release\WebCURL.Resources.resources
+C:\Users\jschw\Documents\Visual Studio 2015\Projects\WebCURL\WebCURL\obj\Release\WebCURL.vbproj.GenerateResource.Cache
+C:\Users\jschw\Documents\Visual Studio 2015\Projects\WebCURL\WebCURL\obj\Release\WebCURL.exe
+C:\Users\jschw\Documents\Visual Studio 2015\Projects\WebCURL\WebCURL\obj\Release\WebCURL.xml
+C:\Users\jschw\Documents\Visual Studio 2015\Projects\WebCURL\WebCURL\obj\Release\WebCURL.pdb
